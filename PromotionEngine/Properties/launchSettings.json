@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PromotionEngine": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Key": "Value"
+      }
+    }
+  }
+}
